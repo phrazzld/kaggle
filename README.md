@@ -4,6 +4,9 @@
 ## Getting Started
 All of my approaches are Jupyter notebooks, so make sure you've got Python and Jupyter Notebook installed and your virtual environment all set up and ready to go. Then clone this repository and run `jupyter notebook` from inside the project directory.
 
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
 
 [Kaggle]: https://www.kaggle.com
 [seaborn]: https://seaborn.pydata.org/
